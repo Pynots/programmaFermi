@@ -4,7 +4,7 @@ Questo è il resoconto del programma scolastico svolto durante il III°-IV° ann
 ## Informatica
   - programmazione orientata agli oggetti (Python) <a href = "Informatica/OOP.md"> approfondisci qui </a>
   - sviluppo software (pygame)
-  - programmazione web (HTML)
+  - programmazione web (HTML, Markdown)<a href = "Informatica/hmtl.md"> approfondisci qui </a>
 ## TLC;
   - circuiti logici (porte logiche AND, OR, NOT)
   - sviluppo embedded (ESP32 o ESP8266)  
