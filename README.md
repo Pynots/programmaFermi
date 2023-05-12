@@ -2,7 +2,7 @@
 Questo è il resoconto del programma scolastico svolto durante il III°-IV° anno nell'Istituto Privato Fermi di Carpi
 
 ## Informatica
-  - programmazione orientata agli oggetti (Python)
+  - programmazione orientata agli oggetti (Python) <a href = "Informatica/OOP.md"> approfondisci qui </a>
   - sviluppo software (pygame)
   - programmazione web (HTML)
 ## TLC;
