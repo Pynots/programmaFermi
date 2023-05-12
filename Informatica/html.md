@@ -8,12 +8,14 @@
 - b `<b> galassie </b>`
 - i `<i> pianeta </i>`
 
-<div style="color: red; padding: 10px">
+
+<div style="border: solid 1px green; padding: 10px">
     <h1> Prova titolo </h1>
     <p> Mille galassie ad est del mio pianeta <p>
     <b> galassie </b>
     <i> pianeta </i>
 </div>
+
 
 <br>
 <br>
